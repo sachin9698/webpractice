@@ -1,2 +1,2 @@
 # webpractice
-just for practice of bootstrap
+just for practice of html,bootstrap
